@@ -13,6 +13,14 @@ It is especially useful for **Bedrock players** playing through GeyserMC.
 - Simple and intuitive usage
 
 ---
+## Demonstration
+
+https://github.com/user-attachments/assets/026ee5da-eb59-4f5e-8cd3-c48466742982
+
+---
+
+
+---
 
 ## 📦 Installation
 
@@ -35,3 +43,4 @@ display-height: 0.35 #height of text above redstone
 vertical-range: 5 #range of searching redstone
 text-color: "#FF5555" #color of text
 refresh-interval-ticks: 10 #interval for update redstone signal values
+```
