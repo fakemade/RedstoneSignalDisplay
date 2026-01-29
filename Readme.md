@@ -17,8 +17,6 @@ It is especially useful for **Bedrock players** playing through GeyserMC.
 
 https://github.com/user-attachments/assets/026ee5da-eb59-4f5e-8cd3-c48466742982
 
----
-
 
 ---
 
