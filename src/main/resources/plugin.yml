@@ -1,0 +1,9 @@
+name: RedstoneSignalDisplay
+version: ${project.version}
+main: fakemade.redstoneSignalDisplay.RedstoneSignalDisplay
+api-version: '1.21'
+authors: [fakemade]
+description: Отображает силу сигнала редстоун-пыли над блоками
+website:
+load: STARTUP
+depend: []  # Нет зависимостей — работает без других плагинов

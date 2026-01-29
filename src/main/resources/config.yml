@@ -1,0 +1,5 @@
+display-radius: 10.0
+display-height: 0.35
+vertical-range: 5  # Диапазон сканирования по Y (вверх и вниз)
+text-color: "#FF5555"
+refresh-interval-ticks: 10  # Как часто обновлять (10 тиков = 0.5 сек)
