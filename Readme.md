@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/026ee5da-eb59-4f5e-8cd3-c48466742982
 
 ## 📦 Installation
 
-1. Download the latest `.jar` file from the Releases page or from <a href"https://hangar.papermc.io/fakemade/RedstoneSignalDisplay">Hangar</a>.
+1. Download the latest `.jar` file from the Releases page or from <a href="https://hangar.papermc.io/fakemade/RedstoneSignalDisplay">Hangar</a>.
 2. Place it into your server's `plugins/` folder.
 3. Restart the server.
 4. The plugin will be enabled automatically.
